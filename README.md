@@ -13,6 +13,7 @@ This repository is for holding all of my work that isn't ready for inclusion in 
 - [ ] - lr-sameboy.sh - Gameboy/Gameboy Color emulator for libretro - Something about how RetroPie-Setup compiles causes this to fail and I'm unsure why. Might be too heavy for Raspberry Pi 3 but seems fine on ODROID XU4.
 
 ##### Ports
+
 - [ ] - abuse.sh - Classic action game - Appears to have some stability issues as well as problems with sound/audio dropping out. Does not full screen properly yet.  
 - [ ] - alephone-community.sh - Additional scenarios for AlephOne - Some instability with Alephone on Raspberry Pi. Working on it.  
 - [ ] - caveexpress.sh - Cave Express game - Not working, some major compilation issues.
@@ -27,6 +28,7 @@ This repository is for holding all of my work that isn't ready for inclusion in 
 - [ ] - roadfighter.sh - Open source remake of Konami's Road Fighter - Cannot compile as is under Stretch, bug is upstream.
 - [ ] - retrobattle.sh - No longer compiles under Stretch. Error is upstream.
 - [ ] - rockbot.sh - Open source Megaman style game - Cannot be compiled on Pi anymore, need new compilatin instructions.
+- [ ] - scratch2.sh Scratch 2 editor. There is no way to exit the editor. It uses Matchbox. If anyone knows how to exit from Matchbox or from Scratch 2 without the window, let me know.
 - [ ] - smw-netplay.sh - Super Mario War with netplay - Crashes before match starts.
 - [ ] - umario.sh - Super Mario Bros. Remake - Runs but doesn't scale properly. Fix incoming soon.
 - [ ] - zelda3t.sh - Zelda fangame - Seems to be stuttery and glitchy looking even on an overclocked pi3. Defaults to french.
